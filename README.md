@@ -3,7 +3,6 @@
 The code for onnx file generation and point cloud preprocessing and postprocessing comes from [[PointPillars demployment](https://github.com/zhulf0804/PointPillars/tree/feature/deployment)].
 
 ## Dependecies:
-- OpenCV 4.x
 - CUDA 11.1
 - onnxruntime 1.10.0
 - GPU GTX 1660Ti
