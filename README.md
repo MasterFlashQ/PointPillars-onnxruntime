@@ -6,7 +6,7 @@ The code for onnx file generation and point cloud preprocessing and postprocessi
 - OpenCV 4.x
 - CUDA 11.1
 - onnxruntime 1.10.0
-- GPU RTX 1660Ti
+- GPU GTX 1660Ti
 
 ## Encountered problems:
 1. The conversion of onnx files to rtr files failed：Unsolved
