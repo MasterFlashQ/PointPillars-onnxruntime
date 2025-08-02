@@ -1,6 +1,6 @@
 # PointPillars-onnxruntime
 ![QQ202582-14374_1](https://github.com/user-attachments/assets/cb96779f-48ec-4cc4-9ac3-a6a15c4626c3)
-The code for onnx file generation and point cloud preprocessing and postprocessing comes from [[PointPillars demployment](https://github.com/zhulf0804/PointPillars/tree/feature/deployment)].
+The code for onnx file generation and point cloud preprocessing and postprocessing comes from [[PointPillars deployment](https://github.com/zhulf0804/PointPillars/tree/feature/deployment)].
 
 ## Dependecies:
 - CUDA 11.1
